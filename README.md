@@ -1,7 +1,7 @@
 # Ahmed Samir Mahmoud
 
 [![Website](https://img.shields.io/badge/Website-Makavael.com-blue)](https://Makavael.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin/Makavael.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin/Makavael/)
 
 👨‍💻 **Full Stack Developer | Cybersecurity Expert**
 
